@@ -12,6 +12,8 @@ This is a web based application developed for ed-tech related based website in i
 
 **project demo video link** - https://youtu.be/gbzVO2KBau0
 
+**QnA Bot** - https://yellow-field-0fbc2ee00.2.azurestaticapps.net/healthbot.html
+
 ## Azure technologies used for Project
 
 - Static web apps
